@@ -54,11 +54,11 @@ experiences:
       - role: Programador
         time: MARZO 2022 - ACTUALIDAD
         company: Fruterias Nenas
-        details:
-        Windev |
-        - Diseño y Desarrollo de aplicaciones de escritorio con bases de datos relacionales con MySQL y con HFSQL
-        - Mantenimiento de aplicaciones y nuevas funcionalidades
-        - Integración con APIs RESTful escritas en node.js con Express
+        details: |
+            Windev
+         - Diseño y Desarrollo de aplicaciones de escritorio con bases de datos relacionales con MySQL y con HFSQL
+         - Mantenimiento de aplicaciones y nuevas funcionalidades
+         - Integración con APIs RESTful escritas en node.js con Express
 
 
 certifications:
