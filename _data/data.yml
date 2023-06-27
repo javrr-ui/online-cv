@@ -75,6 +75,7 @@ experiences:
           - Monitoreo de servicios en servidores con pm2.
           - Diseño de sistema de replicación de datos con broker de mensajes (Apache Kafka).
           - Mantenimiento de APIs RESTful, depuración y optimización de codigo.
+          - Documentación de APIs RESTful con Swagger
 
           <b>MySQL</b><br>
           Analisis y diseño de bases de datos con MySQL.
@@ -84,48 +85,17 @@ experiences:
           - Respaldo de bases de datos.
 
 certifications:
-      title: Certifications
+      title: Cursos y certificados
       list:
-        - name: CV Builder
-          start: 2020
+        - name: Java: Writing Readable and Maintainable Code
+          start: 2021
           end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-            
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
+          organization: Pluralsight
+          credentialurl: https://drive.google.com/drive/u/1/folders/1-0jc-m0z8CGPFTaZdmhtLdsbR4bG85xZ
+          credentialname: Pluralsight
         
 skills:
-    title: Skills &amp; Proficiency
+    title: Tecnologías
 
     toolset:
       - name: WLanguage
