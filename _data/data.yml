@@ -83,17 +83,7 @@ experiences:
           - Análisis y diseño de bases de datos relacionales desde cero, en base a las necesidades del proyecto.
           - Creación de Stored Procedures.
           - Respaldo de bases de datos.
-
-certifications:
-      title: Cursos y certificados
-      list:
-        - name: Java: Writing Readable and Maintainable Code
-          start: 2021
-          end: 2021
-          organization: Pluralsight
-          credentialurl: https://drive.google.com/drive/u/1/folders/1-0jc-m0z8CGPFTaZdmhtLdsbR4bG85xZ
-          credentialname: Pluralsight
-        
+          
 skills:
     title: Tecnologías
 
