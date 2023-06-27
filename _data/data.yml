@@ -40,22 +40,14 @@ career-profile:
 education:
     title: Educación
     info:
-      - degree: Licenciatura en Ingeniería en Computación
+      - degree: Licenciatura en Ingeniería en Computación (trunco 5to semestre)
         university: Universidad Autonoma de Baja California
         time: 2017 - 2021
-        details:
-            Licenciatura trunca (5to Semestre)
+       
       - degree: Técnico en Desarrollo de Software
         university: Colegio de Estudios Científicos y Tecnológicos de Baja California 
         time: 2014 - 2017
         details:
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
 experiences:
     title: Experiences
     info:
