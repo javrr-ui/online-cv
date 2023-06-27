@@ -38,23 +38,16 @@ career-profile:
       Mi enfoque principal se centra en el desarrollo backend utilizando JavaScript con Node.js, donde tengo experiencia en la creación de APIs 
       RESTful con Express y en la integración con bases de datos MySQL.
 education:
-    title: Education
+    title: Educación
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
+      - degree: Licenciatura en Ingeniería en Computación
+        university: Universidad Autonoma de Baja California
+        time: 2017 - 2021
+        details:
+      - degree: Técnico en Desarrollo de Software
+        university: Colegio de Estudios Científicos y Tecnológicos de Baja California 
+        time: 2014 - 2017
+        details:
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
