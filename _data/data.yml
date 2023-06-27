@@ -32,7 +32,7 @@ sidebar:
 
 career-profile:
     title: Perfil Profesional
-    summary: |
+    summary:
       Soy un programador de software Fullstack con amplios conocimientos y experiencia en diversas tecnologías. 
       Tengo experiencia en el diseño de bases de datos relacionales utilizando SQL, así como en la programación en WinDev y WinDev Mobile. 
       Mi enfoque principal se centra en el desarrollo backend utilizando JavaScript con Node.js, donde tengo experiencia en la creación de APIs 
@@ -44,6 +44,7 @@ education:
         university: Universidad Autonoma de Baja California
         time: 2017 - 2021
         details:
+            Licenciatura trunca (5to Semestre)
       - degree: Técnico en Desarrollo de Software
         university: Colegio de Estudios Científicos y Tecnológicos de Baja California 
         time: 2014 - 2017
