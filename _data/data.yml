@@ -54,20 +54,23 @@ experiences:
         time: MARZO 2022 - ACTUALIDAD
         company: Fruterias Nenas
         details: |
-          <b>Windev</b><br>
-          Desarrollo de aplicaciones de escritorio
+          <b>Windev y Windev Mobile</b><br>
+          Desarrollo de aplicaciones de escritorio y móviles
           - Diseño e implementación de interfaces de usuario intuitivas y funcionales. 
           - Mantenimiento de sistemas existentes, adición de nuevas funcionalidades y corrección de errores.
           - Integración con APIs RESTful para la comunicación con servicios internos.
           - Colaboración con el equipo de desarrollo en la planificación y ejecución de proyectos.
           - Resolución de problemas y depuración de código para garantizar el correcto funcionamiento de las aplicaciones.
-          - Analisis y diseño de base de datos relacionales para algunos sistemas.
-          
-          <b>Windev Mobile</b><br>
-          Desarrollo de aplicaciones móviles 
-          - Mantenimiento de aplicaciones móviles
-          - Adición de nuevas funcionalidades
-          - Integración con APIs RESTful
+          - Acceso a bases de datos relacionales para algunos sistemas.
+
+          <b>node.js</b><br>
+          Desarrollo de aplicaciones backend
+          - Creación de APIs RESTful con Express para la comunicación entre el frontend y el backend.
+          - Implementación de control de versiones utilizando Git y GitHub.
+          - Acceso y manipulación de bases de datos relacionales para el almacenamiento de datos.
+          - Monitoreo de servicios en servidores con pm2
+          - Diseño de sistema de replicación de datos con broker de mensajes (Apache Kafka)
+          - Mantenimiento de APIs RESTful, depuración y optimización de codigo.
 
 certifications:
       title: Certifications
