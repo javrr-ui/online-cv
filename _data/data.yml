@@ -31,14 +31,12 @@ sidebar:
 
 
 career-profile:
-    title: Career Profile
+    title: Perfil Profesional
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Soy un programador de software Fullstack con amplios conocimientos y experiencia en diversas tecnologías. 
+      Tengo experiencia en el diseño de bases de datos relacionales utilizando SQL, así como en la programación en WinDev y WinDev Mobile. 
+      Mi enfoque principal se centra en el desarrollo backend utilizando JavaScript con Node.js, donde tengo experiencia en la creación de APIs 
+      RESTful con Express y en la integración con bases de datos MySQL.
 education:
     title: Education
     info:
