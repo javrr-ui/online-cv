@@ -68,9 +68,16 @@ experiences:
           - Creación de APIs RESTful con Express para la comunicación entre el frontend y el backend.
           - Implementación de control de versiones utilizando Git y GitHub.
           - Acceso y manipulación de bases de datos relacionales para el almacenamiento de datos.
-          - Monitoreo de servicios en servidores con pm2
-          - Diseño de sistema de replicación de datos con broker de mensajes (Apache Kafka)
+          - Monitoreo de servicios en servidores con pm2.
+          - Diseño de sistema de replicación de datos con broker de mensajes (Apache Kafka).
           - Mantenimiento de APIs RESTful, depuración y optimización de codigo.
+
+          <b>MySQL</b><br>
+          Analisis y diseño de bases de datos con MySQL.
+          - Optimización de queries.
+          - Análisis y diseño de bases de datos relacionales desde cero, en base a las necesidades del proyecto.
+          - Creación de Stored Procedures.
+          - Respaldo de bases de datos.
 
 certifications:
       title: Certifications
