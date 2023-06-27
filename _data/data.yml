@@ -55,11 +55,18 @@ experiences:
         company: Fruterias Nenas
         details: |
           <b>Windev</b> <br>
-          Desarrollo de aplicaciones de escritorio con acceso a bases de datos MySQL y HFSQL
-
-          Mantenimiento de sistemas existentes, adición de nuevas funcionalidades y corrección de errores.
-
-          Integración con APIs RESTful
+          Desarrollo de aplicaciones de escritorio
+          - Diseño e implementación de interfaces de usuario intuitivas y funcionales. 
+          - Mantenimiento de sistemas existentes, adición de nuevas funcionalidades y corrección de errores.
+          - Integración con APIs RESTful para la comunicación con servicios internos.
+          - Colaboración con el equipo de desarrollo en la planificación y ejecución de proyectos.
+          - Resolución de problemas y depuración de código para garantizar el correcto funcionamiento de las aplicaciones.
+          - Analisis y diseño de base de datos relacionales para algunos sistemas.
+          <b>Windev Mobile</b><br>
+          Desarrollo de aplicaciones móviles 
+          - Mantenimiento de aplicaciones móviles
+          - Adición de nuevas funcionalidades
+          - Integración con APIs RESTful
 
 certifications:
       title: Certifications
